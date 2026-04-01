@@ -1,0 +1,23 @@
+:toc:
+
+== Exercise
+=== Current workout plan
+
+include::exercise/WORKOUT_PLAN.adoc[tag=workout-plan]
+
+link:exercise/WORKOUT_PLAN.adoc[Read more about the workout plan]
+
+== Nutrition
+
+== YouTube Channels
+
+=== PL
+* link:https://www.youtube.com/@drbartekpl[Dr. Bartek Kulczyński]
+* link:https://www.youtube.com/@MarekSkoczylasPL[Marek Skoczylas]
+
+=== ENG
+* link:https://www.youtube.com/@JeffNippard[Jeff Nippard]
+* link:https://www.youtube.com/@RenaissancePeriodization[Renaissance Periodization]
+* link:https://www.youtube.com/@drekberg[Dr. Sten Ekberg]
+* link:https://www.youtube.com/@WhatIveLearned[
+Joseph Everett - WIL]
