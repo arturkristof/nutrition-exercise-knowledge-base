@@ -3,6 +3,8 @@
 
 == Summary
 // tag::fiber-summary[]
+=== Inulin
+
 * link:#inulin1[Inulin immunizes you to fructose and dramatically improves metabolic health]
 ** Eat 10g/day of inulin to get the benefits, amount of food needed to reach 10g
 *** Chicory root (Korzeń Cykorii) - 25-30g
@@ -11,6 +13,19 @@
 *** Leeks (Por) - 100g
 *** Asparagus (Szparagi) - 300-400g
 ** Don't boil, instead roast or saute
+* link:#arabinoxylan-inulin1[High Inulin doses (20g+/day) can cause liver damage and inflammation]. Control following markers and stop/reduce inulin if you feel bad afterwards
+** ALT - liver damage
+** IL-6 - inflammation
+** TBF-β - inflammation
+** VEGF-A - inflammation
+
+=== Arabinoxylan
+
+* link:#arabinoxylan-inulin1[Arabinoxylan causes a dose-dependent reduction in LDL-C cholesterol]
+** Eat 10-30g/day of arabinoxylan to get the benefits, amount of food needed to reach 10-30g:
+*** Psyllium Husk Powder by Now Foods - 20-60g
+* Control following markers to see if you are responding to arabinoxylan:
+** LDL - cholesterol
 // end::fiber-summary[]
 
 [#inulin1]
@@ -40,3 +55,20 @@
 ** Leeks (Por) - 10-12g/100g
 ** Asparagus (Szparagi) - 3g/100g
 * Eat 10g/day of inulin to get the benefits
+
+[#arabinoxylan-inulin1]
+== Global, distinctive, and personal changes in molecular and microbial profiles by specific fibers in humans
+
+=== Sources
+
+* link:sources/Global_distinctive_and_personal_changes_in_molecular_and_microbial_profiles_by_specific_fibers_in_humans.pdf[Research paper]
+* link:https://youtu.be/5dIGzIxrE44?si=aLSwoxNWjT3E9ELk[YouTube Video by Nick Norwitz MD PhD]
+* link:https://staycuriousmetabolism.substack.com/p/fiber-is-good-for-you-is-lazy-science[Article by Nick Norwitz MD PhD]
+
+=== Summary
+
+* Inulin in high doses (20g+/day) can cause liver damage, and long-term high-dose inulin supplementation in mice has led to liver damage and even *liver cancer*
+* Arabinoxylan modifies cholesterol metabolism in a clinically meaningful way. AX caused a dose-dependent reduction in LDL-C, with drops of over 20 mg/dL at the highest dose (30g/day).
+** A high-protein diet - think chicken, fish, eggs, meat—combined with AX fiber might amplify cholesterol lowering.
+* Arabinoxylan sources:
+** Psyllium Husk Powder by Now Foods - 50-60g/100g
