@@ -9,6 +9,24 @@ link:exercise/WORKOUT_PLAN.adoc[Read more about the workout plan]
 
 == Nutrition
 
+=== Fiber
+
+==== Read in detail link:nutrition/fiber/README.adoc[here]
+
+==== Summary
+
+include::nutrition/fiber/README.adoc[tag=fiber-summary]
+
+=== Vitamins & Minerals
+
+TODO
+
+=== Supplements
+
+TODO
+
+== Bloodwork
+
 == YouTube Channels
 
 === PL
@@ -18,6 +36,19 @@ link:exercise/WORKOUT_PLAN.adoc[Read more about the workout plan]
 === ENG
 * link:https://www.youtube.com/@JeffNippard[Jeff Nippard]
 * link:https://www.youtube.com/@RenaissancePeriodization[Renaissance Periodization]
+* link:https://www.youtube.com/@JeremyEthier[Jeremy Ethier]
 * link:https://www.youtube.com/@drekberg[Dr. Sten Ekberg]
 * link:https://www.youtube.com/@WhatIveLearned[
 Joseph Everett - WIL]
+* link:https://www.youtube.com/@nicknorwitzMDPhD[
+Nick Norwitz MD PhD]
+
+=== Potentially good
+
+* link:https://www.youtube.com/@chrismasterjohn[Chris Masterjohn, PhD]
+* link:https://www.youtube.com/@realDaveFeldman[Dave Feldman]
+
+== People to avoid information from
+
+* Peter Attia footnoteref:[
+peterattia, Avoid Peter Attia, https://www.youtube.com/watch?v=THo_s3BWstM]
