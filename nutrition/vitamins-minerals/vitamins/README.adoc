@@ -7,7 +7,7 @@
 ==== Vitamin D
 
 * link:#vitamin-d1[Correct doses and levels of vitamin D]
-** Take 20000-30000 IU/day of vitamin D until you reach healthy BF%, then take 10000 IU/day
+** Take 20.000-30.000 IU/day of vitamin D until you reach healthy BF%, then take 10.000 IU/day
 ** When you reach 80-90 ng/ml of vitamin D, keep taking maintenance doses (test blood and figure it out)
 // end::vitamins-summary[]
 
@@ -21,11 +21,12 @@
 === Summary
 
 * Correct doses of vitamin D for people with deficiency:
-** 2000 IU/day for children < 1 year old
-** 4000 IU/day for children and teenagers 1-18 years old
-** 10000 IU/day for adults
-** 20000-30000 IU/day for adults with obesity
+** 2.000 IU/day for children < 1 year old
+** 4.000 IU/day for children and teenagers 1-18 years old
+** 10.000 IU/day for adults
+** 20.000-30.000 IU/day for adults with obesity
 * When vitamin D reaches optimal levels, keep taking maintenance doses (test blood and figure it out)
 * Optimal levels of vitamin D:
 ** 60-90 ng/ml is fine
 ** 80-90 ng/ml is optimal
+* Symptoms of toxicity appear only when dosing above 50.000 IU daily for weeks or even months
