@@ -1,0 +1,7 @@
+= Minerals
+:toc:
+
+== Summary
+
+// tag::minerals-summary[]
+// end::minerals-summary[]

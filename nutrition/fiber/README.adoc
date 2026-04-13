@@ -3,7 +3,7 @@
 
 == Summary
 // tag::fiber-summary[]
-=== Inulin
+==== Inulin
 
 * link:#inulin1[Inulin immunizes you to fructose and dramatically improves metabolic health]
 ** Eat 10g/day of inulin to get the benefits, amount of food needed to reach 10g
@@ -19,7 +19,7 @@
 ** TBF-β - inflammation
 ** VEGF-A - inflammation
 
-=== Arabinoxylan
+==== Arabinoxylan
 
 * link:#arabinoxylan-inulin1[Arabinoxylan causes a dose-dependent reduction in LDL-C cholesterol]
 ** Eat 10-30g/day of arabinoxylan to get the benefits, amount of food needed to reach 10-30g:

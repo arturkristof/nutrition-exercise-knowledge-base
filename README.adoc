@@ -1,25 +1,27 @@
+= Nutrition & Exercise Knowledge Base
 :toc:
+:toclevels: 5
 
 == Exercise
 === Current workout plan
 
-include::exercise/WORKOUT_PLAN.adoc[tag=workout-plan]
+Read in detail link:exercise/WORKOUT_PLAN.adoc[here]
 
-link:exercise/WORKOUT_PLAN.adoc[Read more about the workout plan]
+include::exercise/WORKOUT_PLAN.adoc[tag=workout-plan]
 
 == Nutrition
 
 === Fiber
 
-==== Read in detail link:nutrition/fiber/README.adoc[here]
-
-==== Summary
+Read in detail link:nutrition/fiber/README.adoc[here]
 
 include::nutrition/fiber/README.adoc[tag=fiber-summary]
 
 === Vitamins & Minerals
 
-TODO
+Read in detail link:nutrition/vitamins-minerals/README.adoc[here]
+
+include::nutrition/vitamins-minerals/README.adoc[tag=vitamins-minerals-summary]
 
 === Supplements
 
@@ -27,11 +29,16 @@ TODO
 
 == Bloodwork
 
+Read in detail link:bloodwork/README.adoc[here]
+
+include::bloodwork/README.adoc[tag=bloodwork-summary]
+
 == YouTube Channels
 
 === PL
 * link:https://www.youtube.com/@drbartekpl[Dr. Bartek Kulczyński]
 * link:https://www.youtube.com/@MarekSkoczylasPL[Marek Skoczylas]
+* link:https://www.youtube.com/@BraciaRodzen[BraciaRodzen]
 
 === ENG
 * link:https://www.youtube.com/@JeffNippard[Jeff Nippard]

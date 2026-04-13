@@ -1,0 +1,23 @@
+= Bloodwork
+:toc:
+:toclevels: 5
+
+== Summary
+// tag::bloodwork-summary[]
+=== Optimal levels
+==== Vitamin D
+* 80-90 ng/ml but 60-90 ng/ml is fine
+// end::bloodwork-summary[]
+
+== Vitamin D
+[#vitamin-d1]
+=== [red]#YouTube Video# - #1 Niebezpieczeństwo Dużych Dawek Wit. D - Miażdżyca to najmniejszy Problem
+
+==== Sources
+
+* link:https://www.youtube.com/watch?v=uC_0PXXxGvc[YouTube Video by BraciaRodzen]
+
+==== Summary
+* Optimal levels of vitamin D:
+** 60-90 ng/ml is fine
+** 80-90 ng/ml is optimal
