@@ -50,7 +50,7 @@
 ** Take 20.000-30.000 IU/day of vitamin D until you reach healthy BF%, then take 10.000 IU/day
 ** When you reach 80-90 ng/ml of vitamin D, keep taking maintenance doses (test blood and figure it out)
 
-==== Vitamin E (Tocopherol (pl. Tokofenol))
+==== Vitamin E (Tocopherol (pl. Tokoferol))
 
 * link:#vitamin-e1[Vitamin E] - TODO
 
