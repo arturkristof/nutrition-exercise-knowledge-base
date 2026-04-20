@@ -59,3 +59,7 @@ Nick Norwitz MD PhD]
 
 * Peter Attia footnoteref:[
 peterattia, Avoid Peter Attia, https://www.youtube.com/watch?v=THo_s3BWstM]
+
+TODO include research:
+- https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2014.302034
+- https://www.jpmph.org/journal/view.php?doi=10.3961/jpmph.16.111#b10-jpmph-50-4-278

@@ -4,4 +4,157 @@
 == Summary
 
 // tag::minerals-summary[]
+==== Calcium
+
+* link:#calcium-1[Calcium] - TODO
+
+==== Iron
+
+* link:#iron-1[Iron] - TODO
+
+==== Magnesium
+
+* link:#magnesium-1[Magnesium] - TODO
+
+==== Phosphorus
+
+* link:#phosphorus-1[Phosphorus] - TODO
+
+==== Potassium
+
+* link:#potassium-1[Potassium] - TODO
+
+==== Sodium
+
+* link:#sodium-1[Sodium] - TODO
+
+==== Zinc
+
+* link:#zinc-1[Zinc] - TODO
+
+==== Copper
+
+* link:#copper-1[Copper] - TODO
+
+==== Manganese
+
+* link:#manganese-1[Manganese] - TODO
+
+==== Chromium
+
+* link:#chromium-1[Chromium] - TODO
+
+==== Molybdenum
+
+* link:#molybdenum-1[Molybdenum] - TODO
+
+==== Selenium
+
+* link:#selenium-1[Selenium] - TODO
+
+==== Iodine
+
+* link:#iodine-1[Iodine] - TODO
+
+==== Fluoride
+
+* link:#fluoride-1[Fluoride] - TODO
 // end::minerals-summary[]
+
+[#calcium-1]
+== Calcium
+
+=== Summary
+
+// Add information here
+
+[#iron-1]
+== Iron
+
+=== Summary
+
+// Add information here
+
+[#magnesium-1]
+== Magnesium
+
+=== Summary
+
+// Add information here
+
+[#phosphorus-1]
+== Phosphorus
+
+=== Summary
+
+// Add information here
+
+[#potassium-1]
+== Potassium
+
+=== Summary
+
+// Add information here
+
+[#sodium-1]
+== Sodium
+
+=== Summary
+
+// Add information here
+
+[#zinc-1]
+== Zinc
+
+=== Summary
+
+// Add information here
+
+[#copper-1]
+== Copper
+
+=== Summary
+
+// Add information here
+
+[#manganese-1]
+== Manganese
+
+=== Summary
+
+// Add information here
+
+[#chromium-1]
+== Chromium
+
+=== Summary
+
+// Add information here
+
+[#molybdenum-1]
+== Molybdenum
+
+=== Summary
+
+// Add information here
+
+[#selenium-1]
+== Selenium
+
+=== Summary
+
+// Add information here
+
+[#iodine-1]
+== Iodine
+
+=== Summary
+
+// Add information here
+
+[#fluoride-1]
+== Fluoride
+
+=== Summary
+
+// Add information here
