@@ -150,7 +150,7 @@
 // Add information here
 
 [#vitamin-e1]
-== Vitamin E (Tocopherol (pl. Tokofenol))
+== Vitamin E (Tocopherol (pl. Tokoferol))
 
 === Summary
 
