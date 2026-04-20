@@ -4,4 +4,157 @@
 == Summary
 
 // tag::minerals-summary[]
+==== Calcium (pl. Wapń)
+
+* xref:README.adoc#calcium-1[Calcium] - TODO
+
+==== Iron (pl. Żelazo)
+
+* xref:README.adoc#iron-1[Iron] - TODO
+
+==== Magnesium (pl. Magnez)
+
+* xref:README.adoc#magnesium-1[Magnesium] - TODO
+
+==== Phosphorus (pl. Fosfor)
+
+* xref:README.adoc#phosphorus-1[Phosphorus] - TODO
+
+==== Potassium (pl. Potas)
+
+* xref:README.adoc#potassium-1[Potassium] - TODO
+
+==== Sodium (pl. Sód)
+
+* xref:README.adoc#sodium-1[Sodium] - TODO
+
+==== Zinc (pl. Cynk)
+
+* xref:README.adoc#zinc-1[Zinc] - TODO
+
+==== Copper (pl. Miedź)
+
+* xref:README.adoc#copper-1[Copper] - TODO
+
+==== Manganese (pl. Mangan)
+
+* xref:README.adoc#manganese-1[Manganese] - TODO
+
+==== Chromium (pl. Chrom)
+
+* xref:README.adoc#chromium-1[Chromium] - TODO
+
+==== Molybdenum (pl. Molibden)
+
+* xref:README.adoc#molybdenum-1[Molybdenum] - TODO
+
+==== Selenium (pl. Selen)
+
+* xref:README.adoc#selenium-1[Selenium] - TODO
+
+==== Iodine (pl. Jod)
+
+* xref:README.adoc#iodine-1[Iodine] - TODO
+
+==== Fluoride (pl. Fluorek)
+
+* xref:README.adoc#fluoride-1[Fluoride] - TODO
 // end::minerals-summary[]
+
+[#calcium-1]
+== Calcium (pl. Wapń)
+
+=== Summary
+
+// Add information here
+
+[#iron-1]
+== Iron (pl. Żelazo)
+
+=== Summary
+
+// Add information here
+
+[#magnesium-1]
+== Magnesium (pl. Magnez)
+
+=== Summary
+
+// Add information here
+
+[#phosphorus-1]
+== Phosphorus (pl. Fosfor)
+
+=== Summary
+
+// Add information here
+
+[#potassium-1]
+== Potassium (pl. Potas)
+
+=== Summary
+
+// Add information here
+
+[#sodium-1]
+== Sodium (pl. Sód)
+
+=== Summary
+
+// Add information here
+
+[#zinc-1]
+== Zinc (pl. Cynk)
+
+=== Summary
+
+// Add information here
+
+[#copper-1]
+== Copper (pl. Miedź)
+
+=== Summary
+
+// Add information here
+
+[#manganese-1]
+== Manganese (pl. Mangan)
+
+=== Summary
+
+// Add information here
+
+[#chromium-1]
+== Chromium (pl. Chrom)
+
+=== Summary
+
+// Add information here
+
+[#molybdenum-1]
+== Molybdenum (pl. Molibden)
+
+=== Summary
+
+// Add information here
+
+[#selenium-1]
+== Selenium (pl. Selen)
+
+=== Summary
+
+// Add information here
+
+[#iodine-1]
+== Iodine (pl. Jod)
+
+=== Summary
+
+// Add information here
+
+[#fluoride-1]
+== Fluoride (pl. Fluorek)
+
+=== Summary
+
+// Add information here
