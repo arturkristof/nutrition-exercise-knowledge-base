@@ -6,43 +6,43 @@
 // tag::vitamins-summary[]
 ==== Vitamin A (Retinol (pl. Retinol))
 
-* link:#vitamin-a1[Vitamin A] - TODO
+* link:vitamins/README.adoc#vitamin-a1[Vitamin A] - TODO
 
 ==== Vitamin B1 (Thiamine (pl. Tiamina))
 
-* link:#vitamin-b1-1[Vitamin B1] - TODO
+* link:vitamins/README.adoc#vitamin-b1-1[Vitamin B1] - TODO
 
 ==== Vitamin B2 (Riboflavin (pl. Ryboflawina))
 
-* link:#vitamin-b2-1[Vitamin B2] - TODO
+* link:vitamins/README.adoc#vitamin-b2-1[Vitamin B2] - TODO
 
 ==== Vitamin B3 (Niacin (pl. Niacyna))
 
-* link:#vitamin-b3-1[Vitamin B3] - TODO
+* link:vitamins/README.adoc#vitamin-b3-1[Vitamin B3] - TODO
 
 ==== Vitamin B5 (Pantothenic Acid (pl. Kwas pantotenowy))
 
-* link:#vitamin-b5-1[Vitamin B5] - TODO
+* link:vitamins/README.adoc#vitamin-b5-1[Vitamin B5] - TODO
 
 ==== Vitamin B6 (Pyridoxine (pl. Pirydoksyna))
 
-* link:#vitamin-b6-1[Vitamin B6] - TODO
+* link:vitamins/README.adoc#vitamin-b6-1[Vitamin B6] - TODO
 
 ==== Vitamin B7 (Biotin (pl. Biotyna))
 
-* link:#vitamin-b7-1[Vitamin B7] - TODO
+* link:vitamins/README.adoc#vitamin-b7-1[Vitamin B7] - TODO
 
 ==== Vitamin B9 (Folate (pl. Foliany))
 
-* link:#vitamin-b9-1[Vitamin B9] - TODO
+* link:vitamins/README.adoc#vitamin-b9-1[Vitamin B9] - TODO
 
 ==== Vitamin B12 (Cobalamin (pl. Kobalamina))
 
-* link:#vitamin-b12-1[Vitamin B12] - TODO
+* link:vitamins/README.adoc#vitamin-b12-1[Vitamin B12] - TODO
 
 ==== Vitamin C (Ascorbic Acid (pl. Kwas askorbinowy))
 
-* link:#vitamin-c1[Vitamin C] - TODO
+* link:vitamins/README.adoc#vitamin-c1[Vitamin C] - TODO
 
 ==== Vitamin D
 
