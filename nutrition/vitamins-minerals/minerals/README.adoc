@@ -4,156 +4,156 @@
 == Summary
 
 // tag::minerals-summary[]
-==== Calcium (Calcium (pl. Wapń))
+==== Calcium (pl. Wapń)
 
 * link:#calcium-1[Calcium] - TODO
 
-==== Iron (Iron (pl. Żelazo))
+==== Iron (pl. Żelazo)
 
 * link:#iron-1[Iron] - TODO
 
-==== Magnesium (Magnesium (pl. Magnez))
+==== Magnesium (pl. Magnez)
 
 * link:#magnesium-1[Magnesium] - TODO
 
-==== Phosphorus (Phosphorus (pl. Fosfor))
+==== Phosphorus (pl. Fosfor)
 
 * link:#phosphorus-1[Phosphorus] - TODO
 
-==== Potassium (Potassium (pl. Potas))
+==== Potassium (pl. Potas)
 
 * link:#potassium-1[Potassium] - TODO
 
-==== Sodium (Sodium (pl. Sód))
+==== Sodium (pl. Sód)
 
 * link:#sodium-1[Sodium] - TODO
 
-==== Zinc (Zinc (pl. Cynk))
+==== Zinc (pl. Cynk)
 
 * link:#zinc-1[Zinc] - TODO
 
-==== Copper (Copper (pl. Miedź))
+==== Copper (pl. Miedź)
 
 * link:#copper-1[Copper] - TODO
 
-==== Manganese (Manganese (pl. Mangan))
+==== Manganese (pl. Mangan)
 
 * link:#manganese-1[Manganese] - TODO
 
-==== Chromium (Chromium (pl. Chrom))
+==== Chromium (pl. Chrom)
 
 * link:#chromium-1[Chromium] - TODO
 
-==== Molybdenum (Molybdenum (pl. Molibden))
+==== Molybdenum (pl. Molibden)
 
 * link:#molybdenum-1[Molybdenum] - TODO
 
-==== Selenium (Selenium (pl. Selen))
+==== Selenium (pl. Selen)
 
 * link:#selenium-1[Selenium] - TODO
 
-==== Iodine (Iodine (pl. Jod))
+==== Iodine (pl. Jod)
 
 * link:#iodine-1[Iodine] - TODO
 
-==== Fluoride (Fluoride (pl. Fluorek))
+==== Fluoride (pl. Fluorek)
 
 * link:#fluoride-1[Fluoride] - TODO
 // end::minerals-summary[]
 
 [#calcium-1]
-== Calcium (Calcium (pl. Wapń))
+== Calcium (pl. Wapń)
 
 === Summary
 
 // Add information here
 
 [#iron-1]
-== Iron (Iron (pl. Żelazo))
+== Iron (pl. Żelazo)
 
 === Summary
 
 // Add information here
 
 [#magnesium-1]
-== Magnesium (Magnesium (pl. Magnez))
+== Magnesium (pl. Magnez)
 
 === Summary
 
 // Add information here
 
 [#phosphorus-1]
-== Phosphorus (Phosphorus (pl. Fosfor))
+== Phosphorus (pl. Fosfor)
 
 === Summary
 
 // Add information here
 
 [#potassium-1]
-== Potassium (Potassium (pl. Potas))
+== Potassium (pl. Potas)
 
 === Summary
 
 // Add information here
 
 [#sodium-1]
-== Sodium (Sodium (pl. Sód))
+== Sodium (pl. Sód)
 
 === Summary
 
 // Add information here
 
 [#zinc-1]
-== Zinc (Zinc (pl. Cynk))
+== Zinc (pl. Cynk)
 
 === Summary
 
 // Add information here
 
 [#copper-1]
-== Copper (Copper (pl. Miedź))
+== Copper (pl. Miedź)
 
 === Summary
 
 // Add information here
 
 [#manganese-1]
-== Manganese (Manganese (pl. Mangan))
+== Manganese (pl. Mangan)
 
 === Summary
 
 // Add information here
 
 [#chromium-1]
-== Chromium (Chromium (pl. Chrom))
+== Chromium (pl. Chrom)
 
 === Summary
 
 // Add information here
 
 [#molybdenum-1]
-== Molybdenum (Molybdenum (pl. Molibden))
+== Molybdenum (pl. Molibden)
 
 === Summary
 
 // Add information here
 
 [#selenium-1]
-== Selenium (Selenium (pl. Selen))
+== Selenium (pl. Selen)
 
 === Summary
 
 // Add information here
 
 [#iodine-1]
-== Iodine (Iodine (pl. Jod))
+== Iodine (pl. Jod)
 
 === Summary
 
 // Add information here
 
 [#fluoride-1]
-== Fluoride (Fluoride (pl. Fluorek))
+== Fluoride (pl. Fluorek)
 
 === Summary
 
