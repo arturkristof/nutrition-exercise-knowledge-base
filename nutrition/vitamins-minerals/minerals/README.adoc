@@ -6,59 +6,59 @@
 // tag::minerals-summary[]
 ==== Calcium (pl. Wapń)
 
-* link:#calcium-1[Calcium] - TODO
+* xref:README.adoc#calcium-1[Calcium] - TODO
 
 ==== Iron (pl. Żelazo)
 
-* link:#iron-1[Iron] - TODO
+* xref:README.adoc#iron-1[Iron] - TODO
 
 ==== Magnesium (pl. Magnez)
 
-* link:#magnesium-1[Magnesium] - TODO
+* xref:README.adoc#magnesium-1[Magnesium] - TODO
 
 ==== Phosphorus (pl. Fosfor)
 
-* link:#phosphorus-1[Phosphorus] - TODO
+* xref:README.adoc#phosphorus-1[Phosphorus] - TODO
 
 ==== Potassium (pl. Potas)
 
-* link:#potassium-1[Potassium] - TODO
+* xref:README.adoc#potassium-1[Potassium] - TODO
 
 ==== Sodium (pl. Sód)
 
-* link:#sodium-1[Sodium] - TODO
+* xref:README.adoc#sodium-1[Sodium] - TODO
 
 ==== Zinc (pl. Cynk)
 
-* link:#zinc-1[Zinc] - TODO
+* xref:README.adoc#zinc-1[Zinc] - TODO
 
 ==== Copper (pl. Miedź)
 
-* link:#copper-1[Copper] - TODO
+* xref:README.adoc#copper-1[Copper] - TODO
 
 ==== Manganese (pl. Mangan)
 
-* link:#manganese-1[Manganese] - TODO
+* xref:README.adoc#manganese-1[Manganese] - TODO
 
 ==== Chromium (pl. Chrom)
 
-* link:#chromium-1[Chromium] - TODO
+* xref:README.adoc#chromium-1[Chromium] - TODO
 
 ==== Molybdenum (pl. Molibden)
 
-* link:#molybdenum-1[Molybdenum] - TODO
+* xref:README.adoc#molybdenum-1[Molybdenum] - TODO
 
 ==== Selenium (pl. Selen)
 
-* link:#selenium-1[Selenium] - TODO
+* xref:README.adoc#selenium-1[Selenium] - TODO
 
 ==== Iodine (pl. Jod)
 
-* link:#iodine-1[Iodine] - TODO
+* xref:README.adoc#iodine-1[Iodine] - TODO
 
 ==== Fluoride (pl. Fluorek)
 
-* link:#fluoride-1[Fluoride] - TODO
+* xref:README.adoc#fluoride-1[Fluoride] - TODO
 // end::minerals-summary[]
 
 [#calcium-1]
