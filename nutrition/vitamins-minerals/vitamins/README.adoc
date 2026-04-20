@@ -4,43 +4,43 @@
 == Summary
 
 // tag::vitamins-summary[]
-==== Vitamin A
+==== Vitamin A (Retinol (pl. Retinol))
 
 * link:#vitamin-a1[Vitamin A] - TODO
 
-==== Vitamin B1 (Thiamine)
+==== Vitamin B1 (Thiamine (pl. Tiamina))
 
 * link:#vitamin-b1-1[Vitamin B1] - TODO
 
-==== Vitamin B2 (Riboflavin)
+==== Vitamin B2 (Riboflavin (pl. Ryboflawina))
 
 * link:#vitamin-b2-1[Vitamin B2] - TODO
 
-==== Vitamin B3 (Niacin)
+==== Vitamin B3 (Niacin (pl. Niacyna))
 
 * link:#vitamin-b3-1[Vitamin B3] - TODO
 
-==== Vitamin B5 (Pantothenic Acid)
+==== Vitamin B5 (Pantothenic Acid (pl. Kwas pantotenowy))
 
 * link:#vitamin-b5-1[Vitamin B5] - TODO
 
-==== Vitamin B6 (Pyridoxine)
+==== Vitamin B6 (Pyridoxine (pl. Pirydoksyna))
 
 * link:#vitamin-b6-1[Vitamin B6] - TODO
 
-==== Vitamin B7 (Biotin)
+==== Vitamin B7 (Biotin (pl. Biotyna))
 
 * link:#vitamin-b7-1[Vitamin B7] - TODO
 
-==== Vitamin B9 (Folate)
+==== Vitamin B9 (Folate (pl. Foliany))
 
 * link:#vitamin-b9-1[Vitamin B9] - TODO
 
-==== Vitamin B12 (Cobalamin)
+==== Vitamin B12 (Cobalamin (pl. Kobalamina))
 
 * link:#vitamin-b12-1[Vitamin B12] - TODO
 
-==== Vitamin C
+==== Vitamin C (Ascorbic Acid (pl. Kwas askorbinowy))
 
 * link:#vitamin-c1[Vitamin C] - TODO
 
@@ -50,7 +50,7 @@
 ** Take 20.000-30.000 IU/day of vitamin D until you reach healthy BF%, then take 10.000 IU/day
 ** When you reach 80-90 ng/ml of vitamin D, keep taking maintenance doses (test blood and figure it out)
 
-==== Vitamin E
+==== Vitamin E (Tocopherol (pl. Tokofenol))
 
 * link:#vitamin-e1[Vitamin E] - TODO
 
@@ -80,77 +80,77 @@
 * Symptoms of toxicity appear only when dosing above 50.000 IU daily for weeks or even months
 
 [#vitamin-a1]
-== Vitamin A
+== Vitamin A (Retinol (pl. Retinol))
 
 === Summary
 
 // Add information here
 
 [#vitamin-b1-1]
-== Vitamin B1 (Thiamine)
+== Vitamin B1 (Thiamine (pl. Tiamina))
 
 === Summary
 
 // Add information here
 
 [#vitamin-b2-1]
-== Vitamin B2 (Riboflavin)
+== Vitamin B2 (Riboflavin (pl. Ryboflawina))
 
 === Summary
 
 // Add information here
 
 [#vitamin-b3-1]
-== Vitamin B3 (Niacin)
+== Vitamin B3 (Niacin (pl. Niacyna))
 
 === Summary
 
 // Add information here
 
 [#vitamin-b5-1]
-== Vitamin B5 (Pantothenic Acid)
+== Vitamin B5 (Pantothenic Acid (pl. Kwas pantotenowy))
 
 === Summary
 
 // Add information here
 
 [#vitamin-b6-1]
-== Vitamin B6 (Pyridoxine)
+== Vitamin B6 (Pyridoxine (pl. Pirydoksyna))
 
 === Summary
 
 // Add information here
 
 [#vitamin-b7-1]
-== Vitamin B7 (Biotin)
+== Vitamin B7 (Biotin (pl. Biotyna))
 
 === Summary
 
 // Add information here
 
 [#vitamin-b9-1]
-== Vitamin B9 (Folate)
+== Vitamin B9 (Folate (pl. Foliany))
 
 === Summary
 
 // Add information here
 
 [#vitamin-b12-1]
-== Vitamin B12 (Cobalamin)
+== Vitamin B12 (Cobalamin (pl. Kobalamina))
 
 === Summary
 
 // Add information here
 
 [#vitamin-c1]
-== Vitamin C
+== Vitamin C (Ascorbic Acid (pl. Kwas askorbinowy))
 
 === Summary
 
 // Add information here
 
 [#vitamin-e1]
-== Vitamin E
+== Vitamin E (Tocopherol (pl. Tokofenol))
 
 === Summary
 
